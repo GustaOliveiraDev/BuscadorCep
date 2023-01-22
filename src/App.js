@@ -23,7 +23,7 @@ function App() {
   }
   return (
     <div className="container">
-      <h2 className="title">Buscador de CEP</h2>
+      <h3 className="title">Buscador de CEP</h3>
       <div className="question">
         <input
           type="text"
